@@ -3,6 +3,7 @@
 The project contains a single executable R file and data directory.
 
 Workflow.
+
 1.	Initialization section: reading feature names, subjects, activity names and labels
 from both test and main directory. Test data is appended to the main one.
 2.	Main section.
